@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "right side",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "right side"
+	}
+}
